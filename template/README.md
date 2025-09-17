@@ -1,7 +1,7 @@
 # template_manual
 
 **文档版本**: v0.1  
-**最后更新**: yyy-mm-dd  
+**最后更新**: yyyy-mm-dd  
 **维护者**: establisher name  
 
 **修訂歷史**
