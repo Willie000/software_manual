@@ -25,3 +25,5 @@
 
 - [空白使用手冊](template)  
 
+
+- [Git文档](https://github.com/Willie000/software_manual)  
